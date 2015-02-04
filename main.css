@@ -1,0 +1,13 @@
+.userInput {
+  width:30%;
+  margin-left: 35%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.button {
+  postion: absolute;
+  margin-left: 30%;
+}
